@@ -1,0 +1,5 @@
+name: 'User Management Module'
+description: 'User Management Module'
+package: Custom
+type: module
+core: 8.x
